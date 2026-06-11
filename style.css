@@ -1,0 +1,18 @@
+    h1{
+        color: rgb(34, 34, 159);
+        background-color: rgb(213, 14, 14);
+     }
+body {
+    /*PENSAR DEPOIS*/
+    background-color: rgb(38, 110, 155);
+    text-align: center;
+    background-image: url(gifsonic.gif);
+}
+img{
+    
+width: 550px;
+}
+footer{
+    background-color: rgb(0, 161, 21);
+
+}
